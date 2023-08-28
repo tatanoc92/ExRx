@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-exrx-dev-102932-authRole",
+      "UnauthRoleArn": "arn:aws:iam::179940218570:role/amplify-exrx-dev-102932-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::179940218570:role/amplify-exrx-dev-102932-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-exrx-dev-102932-deployment",
+      "UnauthRoleName": "amplify-exrx-dev-102932-unauthRole",
+      "StackName": "amplify-exrx-dev-102932",
+      "StackId": "arn:aws:cloudformation:eu-west-1:179940218570:stack/amplify-exrx-dev-102932/01b0b310-457d-11ee-8f6a-062759b445c3",
+      "AmplifyAppId": "d198rt2qd7r62a"
+    },
+    "categories": {
+      "auth": {
+        "exrx1dc5c7a6": {}
+      }
+    }
+  }
+}
